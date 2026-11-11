@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ╔══════════════════════════════════════════════════════════════════════╗
-# ║         AlEnezi Tool — ALL-IN-ONE CTF TERMINAL TOOLKIT              ║
+# ║         AlEnezi Tool - ALL-IN-ONE CTF TERMINAL TOOLKIT              ║
 # ║         aka  S I T E  |  github.com/AlEnezi                         ║
 # ╚══════════════════════════════════════════════════════════════════════╝
 # Version: 2.0 | Author: AlEnezi
