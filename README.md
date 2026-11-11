@@ -1,4 +1,4 @@
-# ☠ AlEnezi Tool — aka SITE
+# AlEnezi Tool: aka SITE
 
 > **All-in-one CTF terminal toolkit. One script. Every category.**
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/SiteQ8/alenezi-tool
@@ -27,7 +27,7 @@ No installation required. Pure bash.
 
 ---
 
-## 📦 Modules
+## Modules
 
 | # | Module | Tools Covered |
 |---|--------|--------------|
@@ -45,7 +45,7 @@ No installation required. Pure bash.
 
 ---
 
-## 🛠 Recommended Tool Install (Debian/Ubuntu/Kali)
+## Recommended Tool Install (Debian/Ubuntu/Kali)
 
 ```bash
 sudo apt update && sudo apt install -y \
@@ -64,18 +64,18 @@ pip3 install pwntools gmpy2 sympy
 
 ---
 
-## ⚙️ Features
+## Features
 
-- **Global target** — set once, reuse across all modules (`t` from main menu)
-- **Session log** — every command logged to `~/.alenezi_session.log`
-- **Flag tracker** — save flags as you capture them, count shown on banner
-- **Notes** — keep recon notes within the tool
-- **Tool checker** — scan your system for missing tools with one keypress (`c`)
-- **No deps** — runs on any bash 4+ system
+- **Global target**: set once, reuse across all modules (`t` from main menu)
+- **Session log**: every command logged to `~/.alenezi_session.log`
+- **Flag tracker**: save flags as you capture them, count shown on banner
+- **Notes**: keep recon notes within the tool
+- **Tool checker**: scan your system for missing tools with one keypress (`c`)
+- **No deps**: runs on any bash 4+ system
 
 ---
 
-## 📁 Files Created
+## Files Created
 
 | File | Purpose |
 |------|---------|
@@ -85,18 +85,17 @@ pip3 install pwntools gmpy2 sympy
 
 ---
 
-## ⚠️ Legal
+## Legal
 
 This tool is intended for **legal CTF competitions, authorized penetration testing, and educational use only.**  
 The author is not responsible for misuse. Always get permission before testing any system.
 
 ---
 
-## 👤 Author
+## Author
 
-**AlEnezi** — made for winning CTFs.
+**AlEnezi**, made for winning CTFs.
 
 ---
 
 *"One tool. Every category. Capture the flag."*
-
